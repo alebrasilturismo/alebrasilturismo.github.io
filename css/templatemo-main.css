@@ -146,6 +146,7 @@ a:hover { color: #FF0; }
 .baner-content {
   padding-top: 30vh;
   text-align: center;
+  background-position: center calc(1% + 0px) !important;
   background-image: url(../img/1st-section.jpg);
 }
 
